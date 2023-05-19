@@ -1,0 +1,5 @@
+Detected a static method [base.BaseTest.init()]. Static configuration methods can cause  unexpected behavior.
+Detected a static method [base.BaseTest.quit()]. Static configuration methods can cause  unexpected behavior.
+[TestNG] Running:
+  /Users/administrator/Library/Caches/JetBrains/IntelliJIdea2023.1/temp-testng-customsuite.xml
+
